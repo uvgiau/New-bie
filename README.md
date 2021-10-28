@@ -7,3 +7,4 @@ Edit from Ubuntu
 
 I just edit it in a new branch.
 I just edit it in a new branch (2)
+New line
